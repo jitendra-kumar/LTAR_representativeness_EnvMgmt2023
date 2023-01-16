@@ -1,0 +1,13 @@
+# Kumar, Jitendra, Coffin, Alisa W., Baffaut, Claire, Ponce-Campos, Guillermo, Witthaus, Lindsey, & Hargrove, William W. (2022).  Quantitative Representativeness and Constituency of the Long-Term Agroecosystem Research Network (1.0) [Data set]. Zenodo.  https://doi.org/10.5281/zenodo.7106385
+DATA_URL MD5SUM
+https://zenodo.org/record/7106385/files/conus_ltar_constituency_workinglands.tif ccb1bebd6fc3efdabe38c4f314563e9c
+https://zenodo.org/record/7106385/files/conus_ltar_representativeness_workinglands.tif 9f9b6cdaf802f3b55d134f2ee1f087b4
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc1.tif 7fa9e5731d17ece5662e01c8a7456303
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc2.tif 3f998dcc3481131c8822ad189e3f2882
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc3.tif 35b336e27e6f3a7137bf5f6e00ee5db1
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc4.tif cd2dd6ca2ac92781e63306de45a40ca0
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc5.tif a74f9d2ef10350be0298792b225583b9
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc6.tif edbb500add7d7ee979e6d92399cbacf5
+https://zenodo.org/record/7106385/files/conus_ltar_v5.pc7.tif a165df063313d43ca2177633809319aa
+https://zenodo.org/record/7106385/files/LTAR_NEON_LTER_bestnetwork_workinglands.tif aac8e5aa79a00bad0f9e06d526aa0733
+https://zenodo.org/record/7106385/files/LTAR_NEON_LTER_representativeness_workinglands.tif 96e14bc81bf95db1a8cfef0f8dfaf70b
