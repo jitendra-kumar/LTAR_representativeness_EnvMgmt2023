@@ -36,6 +36,17 @@ The Long-Term Agroecosystem Research (LTAR) network was established by the U.S. 
 | 14 | pH | SoilGrids 2.0c |
 | 15 | Compound topographic index | HYDRO1Kd |
 
+## Quantitative Representativeness
+
+Representativeness of the LTAR sites was quantified through an exhaustive pairwise Euclidean distance calculation in multivariate space, between the experimental boundary centroids of each LTAR site (1529 centroids) and every 1km cell (>12 million) across the CONUS.  Representativeness was calculated at each grid cell as a normalized index between 0 (least representative) and 1 (most representative).
+
+![LTAR representativeness](https://zenodo.org/record/7106385/files/conus_ltar_representativeness_workinglands.png)
+
+## Constituency of a site
+
+For every LTAR site, we identified the region that is best represented by that particular site, referred to as the LTAR sites’ constituency, since these are the set of 1km grid locations best represented by the environmental drivers at that particular LTAR site; all CONUS locations have a single LTAR site that best represents it.
+
+![LTAR constituency](https://zenodo.org/record/7106385/files/conus_ltar_constituency_workinglands.png)
 
 ## References
 - Kleinman, P. J. A., S. Spiegal, J. R. Rigby, S. C. Goslee, J. M. Baker, B. T. Bestelmeyer, R. K. Boughton, R. B. Bryant, M. A. Cavigelli, J. D. Derner, E. W. Duncan, D. C. Goodrich, D. R. Huggins, K. W. King, M. A. Liebig, M. A. Locke, S. B. Mirsky, G. E. Moglen, T. B. Moorman, F. B. Pierson, G. P. Robertson, E. J. Sadler, J. S. Shortle, J. L. Steiner, T. C. Strickland, H. M. Swain, T. Tsegaye, M. R. Williams, and C. L. Walthall. 2018. Advancing the Sustainability of US Agriculture through Long-Term Research. Journal of Environmental Quality 47:1412-1425.
