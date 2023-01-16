@@ -1,5 +1,5 @@
 # Quantitative Representativeness and Constituency of the Long-Term Agroecosystem Research Network, and Analysis of Complementarity with Other Existing Ecological Networks
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7539723.svg)](https://doi.org/10.5281/zenodo.7539723)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7539722.svg)](https://doi.org/10.5281/zenodo.7539722)
 
 
 This repository provides codes/script/data associated with Kumar et. al. 2023, Environmental Management
